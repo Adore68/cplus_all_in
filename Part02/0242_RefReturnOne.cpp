@@ -1,3 +1,5 @@
+/* return reference type */
+
 #include <iostream>
 using namespace std;
 
